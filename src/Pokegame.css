@@ -1,0 +1,7 @@
+.Pokegame-div{
+    position:sticky;
+    margin: 0;
+    padding: 0;
+    transform: translateY(-50px);
+    /* height: 40px; */
+}

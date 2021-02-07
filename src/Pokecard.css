@@ -1,0 +1,28 @@
+.PokeCard-div{
+    display: flex;
+    flex-direction: column;
+    width: 12em;
+    height: 20em;
+    background-color: rgb(176, 197, 201);
+    border: 5px solid rgb(0, 193, 252);
+    border-radius: 15px;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    box-shadow: 10px 13px 7px 3px rgba(0,0,0,0.44);
+}
+.PokeCard-h1{
+    color:  rgb(0, 64, 83);
+    margin-bottom: 0;
+}
+.PokeCard-div p{
+    margin: 0;
+}
+
+.PokeCard-div img{
+    transition: all ease-in 300ms;
+}
+.PokeCard-div img:hover{
+    transform: scale(1.25);
+    opacity: 0.85;
+}
