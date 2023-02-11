@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactSimple-pokedex/static/css/main.24f94c34.chunk.css",
+    "main.js": "/ReactSimple-pokedex/static/js/main.e0e46f25.chunk.js",
+    "main.js.map": "/ReactSimple-pokedex/static/js/main.e0e46f25.chunk.js.map",
+    "runtime-main.js": "/ReactSimple-pokedex/static/js/runtime-main.45314be0.js",
+    "runtime-main.js.map": "/ReactSimple-pokedex/static/js/runtime-main.45314be0.js.map",
+    "static/js/2.a53add12.chunk.js": "/ReactSimple-pokedex/static/js/2.a53add12.chunk.js",
+    "static/js/2.a53add12.chunk.js.map": "/ReactSimple-pokedex/static/js/2.a53add12.chunk.js.map",
+    "static/js/3.d1982902.chunk.js": "/ReactSimple-pokedex/static/js/3.d1982902.chunk.js",
+    "static/js/3.d1982902.chunk.js.map": "/ReactSimple-pokedex/static/js/3.d1982902.chunk.js.map",
+    "index.html": "/ReactSimple-pokedex/index.html",
+    "static/css/main.24f94c34.chunk.css.map": "/ReactSimple-pokedex/static/css/main.24f94c34.chunk.css.map",
+    "static/js/2.a53add12.chunk.js.LICENSE.txt": "/ReactSimple-pokedex/static/js/2.a53add12.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45314be0.js",
+    "static/js/2.a53add12.chunk.js",
+    "static/css/main.24f94c34.chunk.css",
+    "static/js/main.e0e46f25.chunk.js"
+  ]
+}
